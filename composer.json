@@ -1,0 +1,21 @@
+{
+    "name": "qsnh/think-log-viewer",
+    "description": "log",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Qsnh",
+            "email": "616896861@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Qsnh\\Think\\Log\\": "./src"
+        },
+        "files": [
+            "autoload.php"
+        ]
+    }
+}
